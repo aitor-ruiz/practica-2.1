@@ -1,0 +1,61 @@
+@import url(../../../css/style.css);
+
+/* Cabecera  */
+
+header h2{
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+    margin: 0;
+}
+
+/* menu */
+nav{
+    margin-bottom: 30px;
+    margin: 0;
+}
+
+nav ul {
+    margin: 0;
+}
+nav li{
+    float: left;
+}
+
+nav a{
+    padding-right: 10px;
+}
+
+
+
+/* Parte principal */
+main{
+
+    padding-bottom: 30px;;
+}
+
+.imagenes {
+    text-align: center;
+    padding: 60px 0px 60px 0px;
+}
+
+img{
+    margin: 0px 5px;
+}
+
+/* Listado de productos */
+    section{
+        padding: 0px 30px;
+    }
+
+    h3 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .enumerado li{
+     padding-bottom: 5px;   
+    }
+
+    .noenumerado li {
+        padding-bottom: 5px;
+    }
